@@ -1,5 +1,8 @@
 # Chapter Performance Dashboard Backend API
 
+Happy Coding !!!!
+Buy a coffee for Omdeep
+
 A Robust RESTful API backend for a Chapter Performance Dashboard, built as a sample task for MathonGo. This project demonstrates API design, data filtering, caching, rate-limiting, and performance optimization using Node.js, Express.js, MongoDB, and Redis.
 
 ## Features
