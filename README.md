@@ -1,6 +1,6 @@
 # Chapter Performance Dashboard Backend API
 
-A RESTful API backend for a Chapter Performance Dashboard, built as a sample task for MathonGo. This project demonstrates API design, data filtering, caching, rate-limiting, and performance optimization using Node.js, Express.js, MongoDB, and Redis.
+A Robust RESTful API backend for a Chapter Performance Dashboard, built as a sample task for MathonGo. This project demonstrates API design, data filtering, caching, rate-limiting, and performance optimization using Node.js, Express.js, MongoDB, and Redis.
 
 ## Features
 
